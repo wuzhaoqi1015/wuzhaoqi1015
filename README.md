@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - Preimplantation Genetic Testing (PGT-A, PGT-M, PGT-SR, PGT-P)
 - Non-Invasive Prenatal Screening Testing (NIPT)
 - WGS/WES for Mendelian Disorder Diagnosis
-
+- Exploration and attempt of genetic testing products based on third-generation sequencing
