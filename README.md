@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on genetic testing for disease screening and diagnosis, related software and web development
+
 🌱 My professional position: bioinformatics engineer, full stack engineer and big data analyst.
+
 💬 The specific research directions are as follows:
 
 - Software and web sites for bioinformatics analysis and data management
